@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color: #fff;
+  background-color: #000000;  /* Azul */
+  padding: 20px 0;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sidebar {
+  height: 300px;
+  background-color: #ffffff;    /* Vermelho */
+}
+
+.footer {
+  height: 200px;
+  background-color: #D6E9FE;    /* Azul claro */
+}
+
+.tagCapa{
+  display: inline-block;
+  position: left;
+  background-color: black;
+  color: white;
+  padding:5px;
+  
+}
+
+.tagCapa1{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+  color:white;
+      font-size: 90px;
+  
+}
+.cafe{
+  box-sizing: inherit
+}
+.tagCapa2{
+  text-align: center;
+  box-sizing: inherit;
+  position: absolute;
+    right: 0;
+    bottom: 0;
+  padding: 12px 24px
+}
+.form{
+  position: center;
+}
