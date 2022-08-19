@@ -1,4 +1,4 @@
-# Avaliacao de PWEB-Répica de site
+# Avaliacao de PWEB-Réplica de site
 Réplica do site: https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm com css e html                              
 Escola: IFSC-câmpus Xanxerê                                         
 Professor: Maykon Chagas                                       
